@@ -1,0 +1,4 @@
+1.There are 6 branches + 1 that I created
+2. branch index is merged into master
+3. The total number of commits is 16
+4.Package has commits named "Removed lock", "Added locked package" and "Added package" that are not in master commit history 
